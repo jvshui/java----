@@ -49,7 +49,7 @@
 
 ### 关键字
 
-![image-20240718192614006](C:\Users\qzw\Desktop\worknode\java\picture\image-20240718192614006.png)
+![img](https://raw.githubusercontent.com/jvshui/java----/main/image/关键字.png))
 
 ### 入口程序
 
@@ -85,7 +85,7 @@ public class Test {
 
 * 强制规则：只能出现大小写字母,数字,$,_,且数字不能开头,不能使用关键字和保留字
 
-![image-20240718193603061](C:\Users\qzw\Desktop\worknode\java\picture\image-20240718193603061.png)
+![img](https://raw.githubusercontent.com/jvshui/java----/main/image/命名规则.png))
 
 * 非强制规则：建议望文知义,驼峰命名
 
